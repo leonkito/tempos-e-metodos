@@ -1,6 +1,7 @@
-import './App.css';
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'
+
 function App() {
   const [data, setData] = useState(null);
 
@@ -10,7 +11,9 @@ function App() {
       setData(result.data);
     };
     fetchData();
+    console.log("data was summoned")
   }, []);
+  
   return (
     <div>
       {data ? data : 'Loading...'}
