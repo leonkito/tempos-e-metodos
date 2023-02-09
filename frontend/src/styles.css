@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  font-family:  Helvetica,Verdana, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.Body {
+  display:grid;
+  grid-template-columns: 1fr 5fr;
+  min-height: 100vh;
+
+}
+.header{
+  display:flex;
+  min-height: 100vh;
+  border-right: 10px solid black;
+}
+
+.main{
+  display: flex;
+  min-height: 100vh;
+}
