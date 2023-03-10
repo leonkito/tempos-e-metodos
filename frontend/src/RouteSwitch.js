@@ -11,6 +11,7 @@ const RouteSwitch = () => {
         <Routes>
             <Route path="/" element={<Create/>} />
         </Routes>
+        <App/>
     </div>
     </BrowserRouter>
   );

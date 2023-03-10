@@ -1,22 +1,22 @@
 {
   "takes": [
     {
+      "name": "Mademato",
+      "mode": "líquidos",
       "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
-      "name": "Tommy V",
-      "mode": "For Time",
       "createdAt": "4/20/2022, 2:21:56 PM",
       "updatedAt": "4/20/2022, 2:21:56 PM"
     },
     {
-      "name": "Core Buster",
-      "mode": "AMRAP 20",
+      "name": "Grão Verde",
+      "mode": "sólidos",
       "id": "39dbced3-932a-4021-8491-61e683e305ae",
       "createdAt": "2/20/2023, 7:52:08 PM",
       "updatedAt": "2/20/2023, 7:52:08 PM"
     },
     {
-      "name": "test",
-      "mode": "AMRAP 20",
+      "name": "Madepó 50",
+      "mode": "Semissólidos",
       "id": "63056f2b-1c51-44fd-b90d-299b9dbd2fc8",
       "createdAt": "2/20/2023, 7:52:21 PM",
       "updatedAt": "2/20/2023, 7:52:21 PM"
